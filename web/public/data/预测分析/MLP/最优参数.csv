@@ -1,0 +1,2 @@
+﻿hidden_units,dropout_rate,learning_rate
+128,0.2,0.001
